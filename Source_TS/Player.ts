@@ -1313,7 +1313,7 @@ export const global: globalType = {
         cost: [],
         firstCost: [1, 1, 2, 2, 0, 1, 1, 2, 2],
         scaling: [1, 1, 2, 2, 1, 1.4, 2.5, 2.5, 2.4],
-        max: [9, 9, 3, 4, 4, 4, 4, 4, 4]
+        max: [9999, 9999, 3, 4, 4, 4, 4, 4, 4]
     }],
     milestonesInfo: [
         {} as globalType['milestonesInfo'][0], { //Stage 1
